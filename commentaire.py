@@ -20,3 +20,4 @@ print(addToNumbers())
 
 
 print(addToNumbers.__doc__)
+print(__doc__) # ok i can't just simply see the global docstrings outside classes or functions
