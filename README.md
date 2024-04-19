@@ -4,8 +4,8 @@
 A big challenger for somehow who has little knowledge on python but feel powerful because I know no fear and I know a lot about php and javascript.
 
 RoadMap: 
-  - Syntaxe de base
-  - Structures de données
+  - Syntaxe de base (45 min)
+  - Structures de données ()
   - Controle de flux
   - Fonctions
   - Gestion des erreurs
