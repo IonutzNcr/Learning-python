@@ -31,3 +31,8 @@ print(dict)
 dict.setdefault("anger", "ok")
 
 print(dict)
+
+print ( len(dict))
+
+# pas de tuples car trop simple 
+# pas de set car trop complexe pour trouver des cas d'utilisation 
