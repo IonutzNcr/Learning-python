@@ -10,7 +10,7 @@ RoadMap:
   - Fonctions (23 min)
   - Gestion des erreurs (15 min)
   - Modules et packages (36 min)
-  - Entrées et sorties de base
+  - Entrées et sorties de base (33 min)
   - POO
   - Expression régulieres ( je hais, optionnel )
   - Travailler avec des données
