@@ -26,3 +26,14 @@ with open("numbers.txt","r") as file:
 with open("numbers.txt","w+") as file:
     file.truncate(0)
     print(file.read())
+
+
+#interaction with user and files
+
+
+content = None
+while content != "Nothing" : 
+    content = input("what to add in my new file")
+    with open("clientwish.txt","a") as file: #w it will overwritten "a" => append mode 
+        file.write(content)
+   
