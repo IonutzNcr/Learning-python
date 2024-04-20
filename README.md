@@ -8,8 +8,8 @@ RoadMap:
   - Structures de données (1h 15min)
   - Controle de flux (26 min)
   - Fonctions (23 min)
-  - Gestion des erreurs
-  - Modules et packages
+  - Gestion des erreurs (15 min)
+  - Modules et packages (36 min)
   - Entrées et sorties de base
   - POO
   - Expression régulieres ( je hais, optionnel )
