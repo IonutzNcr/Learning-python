@@ -6,7 +6,7 @@ A big challenger for somehow who has little knowledge on python but feel powerfu
 RoadMap: 
   - Syntaxe de base (45 min)
   - Structures de données (1h 15min)
-  - Controle de flux
+  - Controle de flux (26 min)
   - Fonctions
   - Gestion des erreurs
   - Modules et packages
