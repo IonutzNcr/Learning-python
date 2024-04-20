@@ -7,7 +7,7 @@ RoadMap:
   - Syntaxe de base (45 min)
   - Structures de données (1h 15min)
   - Controle de flux (26 min)
-  - Fonctions
+  - Fonctions (23 min)
   - Gestion des erreurs
   - Modules et packages
   - Entrées et sorties de base
