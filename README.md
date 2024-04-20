@@ -13,6 +13,6 @@ RoadMap:
   - Entrées et sorties de base (33 min)
   - POO (1h 9 min)
   - Expression régulieres ( je hais, optionnel ) (17 min)
-  - Travailler avec des données
+  - Travailler avec des données (1h 4min)
 
 
