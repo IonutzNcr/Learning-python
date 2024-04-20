@@ -11,6 +11,8 @@ RoadMap:
   - Gestion des erreurs (15 min)
   - Modules et packages (36 min)
   - Entrées et sorties de base (33 min)
-  - POO
-  - Expression régulieres ( je hais, optionnel )
+  - POO (1h 9 min)
+  - Expression régulieres ( je hais, optionnel ) (17 min)
   - Travailler avec des données
+
+
